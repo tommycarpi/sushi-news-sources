@@ -1,0 +1,202 @@
+[
+    {
+        "name": "larepubblica",
+        "fullName": "La Repubblica",
+        "id": 1,
+        "rss": "https://www.repubblica.it/rss/homepage/rss2.0.xml",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
+        "name": "open",
+        "fullName": "Open",
+        "id": 2,
+        "rss": "https://www.open.online/feed/",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
+        "name": "domani",
+        "fullName": "Domani",
+        "id": 3,
+        "rss": "https://www.editorialedomani.it/rss",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
+        "name": "ilfoglio",
+        "fullName": "Il Foglio",
+        "id": 4,
+        "rss": "https://www.ilfoglio.it/rss/",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
+        "name": "lastampa",
+        "fullName": "La Stampa",
+        "id": 5,
+        "rss": "https://www.lastampa.it/rss/copertina.xml",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
+        "name": "ilemessaggero",
+        "fullName": "Il Messaggero",
+        "id": 6,
+        "rss": "https://www.ilmessaggero.it/rss/home.xml",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
+        "name": "corrieredellasera",
+        "fullName": "Corriere della Sera",
+        "id": 7,
+        "rss": "https://xml2.corriereobjects.it/rss/homepage.xml",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
+        "name": "huffingtonpost",
+        "fullName": "Huffington Post",
+        "id": 8,
+        "rss": "https://www.huffingtonpost.it/rss/",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
+        "name": "ansa",
+        "fullName": "ANSA",
+        "id": 9,
+        "rss": "https://www.ansa.it/sito/ansait_rss.xml",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
+        "name": "agi",
+        "fullName": "AGI",
+        "id": 10,
+        "rss": "https://www.agi.it/politica/rss.xml",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
+        "name": "adnkronos",
+        "fullName": "Adnkronos",
+        "id": 11,
+        "rss": "https://www.adnkronos.com/RSS_PrimaPagina.xml",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
+        "name": "ilsole24ore",
+        "fullName": "Il Sole 24 Ore",
+        "id": 12,
+        "rss": "https://www.ilsole24ore.com/rss/italia--politica-economica.xml",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
+        "name": "associatedpress",
+        "fullName": "Associated Press",
+        "id": 13,
+        "rss": "https://apnews.com/index.rss",
+        "language": "english",
+        "country": "usa"
+    },
+    {
+        "name": "cnn",
+        "fullName": "CNN",
+        "id": 14,
+        "rss": "http://rss.cnn.com/rss/edition.rss",
+        "language": "english",
+        "country": "usa"
+    },
+    {
+        "name": "npr",
+        "fullName": "NPR",
+        "id": 15,
+        "rss": "https://feeds.npr.org/1001/rss.xml",
+        "language": "english",
+        "country": "usa"
+    },
+    {
+        "name": "pbs",
+        "fullName": "PBS",
+        "id": 16,
+        "rss": "https://www.pbs.org/newshour/feeds/rss/headlines",
+        "language": "english",
+        "country": "usa"
+    },
+    {
+        "name": "newyorktimes",
+        "fullName": "New York Times",
+        "id": 17,
+        "rss": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+        "language": "english",
+        "country": "usa"
+    },
+    {
+        "name": "washingtonpost",
+        "fullName": "Washington Post",
+        "id": 18,
+        "rss": "https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_35",
+        "language": "english",
+        "country": "usa"
+    },
+    {
+        "name": "usatoday",
+        "fullName": "USA Today",
+        "id": 19,
+        "rss": "",
+        "language": "english",
+        "country": "usa"
+    },
+    {
+        "name": "latimes",
+        "fullName": "Los Angeles Times",
+        "id": 20,
+        "rss": "https://www.latimes.com/world-nation/rss2.0.xml#nt=0000016c-0bf3-d57d-afed-2fff84fd0000-1col-7030col1",
+        "language": "english",
+        "country": "usa"
+    },
+    {
+        "name": "huffpost",
+        "fullName": "HuffPost",
+        "id": 21,
+        "rss": "",
+        "language": "english",
+        "country": "usa"
+    },
+    {
+        "name": "theindependent",
+        "fullName": "The Independent",
+        "id": 22,
+        "rss": "https://www.independent.co.uk/us/rss",
+        "language": "english",
+        "country": "usa"
+    },
+    {
+        "name": "chicagotribune",
+        "fullName": "Chicago Tribune",
+        "id": 23,
+        "rss": "https://www.chicagotribune.com/feed/",
+        "language": "english",
+        "country": "usa"
+    },
+    {
+        "name": "bostonglobe",
+        "fullName": "The Boston Globe",
+        "id": 24,
+        "rss": "",
+        "language": "english",
+        "country": "usa"
+    },
+    {
+        "name": "startribune",
+        "fullName": "Star Tribune",
+        "id": 25,
+        "rss": "https://www.startribune.com/rss/?sf=1&s=/",
+        "language": "english",
+        "country": "usa"
+    }
+]
