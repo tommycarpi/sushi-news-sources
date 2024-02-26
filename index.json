@@ -27,7 +27,7 @@
         "name": "ilfoglio",
         "fullName": "Il Foglio",
         "id": 4,
-        "rss": "https://www.ilfoglio.it/rss/",
+        "rss": "https://www.ilfoglio.it/editoriali/rss.xml",
         "language": "italian",
         "country": "italy"
     },
