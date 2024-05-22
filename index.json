@@ -198,5 +198,13 @@
         "rss": "https://www.startribune.com/rss/?sf=1&s=/",
         "language": "english",
         "country": "usa"
+    },
+    {
+        "name": "ilpost",
+        "fullName": "Il Post",
+        "id": 26,
+        "rss": "https://www.ilpost.it/feed",
+        "language": "italian",
+        "country": "italy"
     }
 ]
