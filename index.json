@@ -238,5 +238,101 @@
         "rss": "https://www.agi.it/innovazione/rss",
         "language": "italian",
         "country": "italy"
+    },
+    {
+        "name": "adnkronos",
+        "fullName": "Adnkronos",
+        "id": 31,
+        "rss": "https://www.adnkronos.com/RSS_Ultimora.xml",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
+        "name": "adnkronos",
+        "fullName": "Adnkronos",
+        "id": 32,
+        "rss": "https://www.adnkronos.com/RSS_Politica.xml",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
+        "name": "adnkronos",
+        "fullName": "Adnkronos",
+        "id": 33,
+        "rss": "https://www.adnkronos.com/RSS_Esteri.xml",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
+        "name": "adnkronos",
+        "fullName": "Adnkronos",
+        "id": 34,
+        "rss": "https://www.adnkronos.com/RSS_Cronaca.xml",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
+        "name": "adnkronos",
+        "fullName": "Adnkronos",
+        "id": 35,
+        "rss": "https://www.adnkronos.com/RSS_Economia.xml",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
+        "name": "adnkronos",
+        "fullName": "Adnkronos",
+        "id": 36,
+        "rss": "https://www.adnkronos.com/RSS_Finanza.xml",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
+        "name": "adnkronos",
+        "fullName": "Adnkronos",
+        "id": 37,
+        "rss": "https://www.adnkronos.com/RSS_CyberNews.xml",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
+        "name": "adnkronos",
+        "fullName": "Adnkronos",
+        "id": 38,
+        "rss": "https://www.adnkronos.com/RSS_Spettacolo.xml",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
+        "name": "adnkronos",
+        "fullName": "Adnkronos",
+        "id": 39,
+        "rss": "https://www.adnkronos.com/RSS_Cultura.xml",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
+        "name": "adnkronos",
+        "fullName": "Adnkronos",
+        "id": 40,
+        "rss": "https://www.adnkronos.com/RSS_Sport.xml",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
+        "name": "adnkronos",
+        "fullName": "Adnkronos",
+        "id": 41,
+        "rss": "https://www.adnkronos.com/RSS_Sostenibilita.xml",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
+        "name": "adnkronos",
+        "fullName": "Adnkronos",
+        "id": 42,
+        "rss": "https://www.adnkronos.com/RSS_Salute.xml",
+        "language": "italian",
+        "country": "italy"
     }
 ]
