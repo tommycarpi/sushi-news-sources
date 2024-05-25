@@ -206,5 +206,37 @@
         "rss": "https://www.ilpost.it/feed",
         "language": "italian",
         "country": "italy"
+    },
+    {
+        "name": "agi",
+        "fullName": "AGI",
+        "id": 27,
+        "rss": "https://www.agi.it/cronaca/rss",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
+        "name": "agi",
+        "fullName": "AGI",
+        "id": 28,
+        "rss": "https://www.agi.it/economia/rss",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
+        "name": "agi",
+        "fullName": "AGI",
+        "id": 29,
+        "rss": "https://www.agi.it/estero/rss",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
+        "name": "agi",
+        "fullName": "AGI",
+        "id": 30,
+        "rss": "https://www.agi.it/innovazione/rss",
+        "language": "italian",
+        "country": "italy"
     }
 ]
