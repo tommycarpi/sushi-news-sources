@@ -334,5 +334,61 @@
         "rss": "https://www.adnkronos.com/RSS_Salute.xml",
         "language": "italian",
         "country": "italy"
+    },
+    {
+        "name": "ansa",
+        "fullName": "ANSA",
+        "id": 43,
+        "rss": "https://www.ansa.it/sito/notizie/cronaca/cronaca_rss.xml",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
+        "name": "ansa",
+        "fullName": "ANSA",
+        "id": 44,
+        "rss": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
+        "name": "ansa",
+        "fullName": "ANSA",
+        "id": 45,
+        "rss": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
+        "name": "ansa",
+        "fullName": "ANSA",
+        "id": 46,
+        "rss": "https://www.ansa.it/sito/notizie/economia/economia_rss.xml",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
+        "name": "ansa",
+        "fullName": "ANSA",
+        "id": 47,
+        "rss": "https://www.ansa.it/sito/notizie/cultura/cinema/cinema_rss.xml",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
+        "name": "ansa",
+        "fullName": "ANSA",
+        "id": 48,
+        "rss": "https://www.ansa.it/sito/notizie/cultura/cultura_rss.xml",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
+        "name": "ansa",
+        "fullName": "ANSA",
+        "id": 49,
+        "rss": "https://www.ansa.it/sito/notizie/topnews/topnews_rss.xml",
+        "language": "italian",
+        "country": "italy"
     }
 ]
