@@ -574,5 +574,45 @@
         "rss": "https://www.ilsole24ore.com/rss/finanza--business.xml",
         "language": "italian",
         "country": "italy"
+    },
+    {
+        "name": "fanpage",
+        "fullName": "Fanpage",
+        "id": 73,
+        "rss": "https://www.fanpage.it/feed/",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
+        "name": "linkiesta",
+        "fullName": "Linkiesta",
+        "id": 74,
+        "rss": "https://www.linkiesta.it/feed/",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
+        "name": "ilfattoquotidiano",
+        "fullName": "Il Fatto Quotidiano",
+        "id": 75,
+        "rss": "https://www.ilfattoquotidiano.it/feed/",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
+        "name": "rainews",
+        "fullName": "Rai News",
+        "id": 76,
+        "rss": "https://www.rainews.it/rss/tutti",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
+        "name": "lindipendente",
+        "fullName": "L'indipendente",
+        "id": 77,
+        "rss": "https://www.lindipendente.online/feed/",
+        "language": "italian",
+        "country": "italy"
     }
 ]
