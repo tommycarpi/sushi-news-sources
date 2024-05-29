@@ -232,169 +232,17 @@
         "country": "italy"
     },
     {
-        "name": "agi",
-        "fullName": "AGI",
-        "id": 30,
-        "rss": "https://www.agi.it/innovazione/rss",
-        "language": "italian",
-        "country": "italy"
-    },
-    {
         "name": "adnkronos",
         "fullName": "Adnkronos",
-        "id": 31,
+        "id": 30,
         "rss": "https://www.adnkronos.com/RSS_Ultimora.xml",
         "language": "italian",
         "country": "italy"
     },
     {
-        "name": "adnkronos",
-        "fullName": "Adnkronos",
-        "id": 32,
-        "rss": "https://www.adnkronos.com/RSS_Politica.xml",
-        "language": "italian",
-        "country": "italy"
-    },
-    {
-        "name": "adnkronos",
-        "fullName": "Adnkronos",
-        "id": 33,
-        "rss": "https://www.adnkronos.com/RSS_Esteri.xml",
-        "language": "italian",
-        "country": "italy"
-    },
-    {
-        "name": "adnkronos",
-        "fullName": "Adnkronos",
-        "id": 34,
-        "rss": "https://www.adnkronos.com/RSS_Cronaca.xml",
-        "language": "italian",
-        "country": "italy"
-    },
-    {
-        "name": "adnkronos",
-        "fullName": "Adnkronos",
-        "id": 35,
-        "rss": "https://www.adnkronos.com/RSS_Economia.xml",
-        "language": "italian",
-        "country": "italy"
-    },
-    {
-        "name": "adnkronos",
-        "fullName": "Adnkronos",
-        "id": 36,
-        "rss": "https://www.adnkronos.com/RSS_Finanza.xml",
-        "language": "italian",
-        "country": "italy"
-    },
-    {
-        "name": "adnkronos",
-        "fullName": "Adnkronos",
-        "id": 37,
-        "rss": "https://www.adnkronos.com/RSS_CyberNews.xml",
-        "language": "italian",
-        "country": "italy"
-    },
-    {
-        "name": "adnkronos",
-        "fullName": "Adnkronos",
-        "id": 38,
-        "rss": "https://www.adnkronos.com/RSS_Spettacolo.xml",
-        "language": "italian",
-        "country": "italy"
-    },
-    {
-        "name": "adnkronos",
-        "fullName": "Adnkronos",
-        "id": 39,
-        "rss": "https://www.adnkronos.com/RSS_Cultura.xml",
-        "language": "italian",
-        "country": "italy"
-    },
-    {
-        "name": "adnkronos",
-        "fullName": "Adnkronos",
-        "id": 40,
-        "rss": "https://www.adnkronos.com/RSS_Sport.xml",
-        "language": "italian",
-        "country": "italy"
-    },
-    {
-        "name": "adnkronos",
-        "fullName": "Adnkronos",
-        "id": 41,
-        "rss": "https://www.adnkronos.com/RSS_Sostenibilita.xml",
-        "language": "italian",
-        "country": "italy"
-    },
-    {
-        "name": "adnkronos",
-        "fullName": "Adnkronos",
-        "id": 42,
-        "rss": "https://www.adnkronos.com/RSS_Salute.xml",
-        "language": "italian",
-        "country": "italy"
-    },
-    {
-        "name": "ansa",
-        "fullName": "ANSA",
-        "id": 43,
-        "rss": "https://www.ansa.it/sito/notizie/cronaca/cronaca_rss.xml",
-        "language": "italian",
-        "country": "italy"
-    },
-    {
-        "name": "ansa",
-        "fullName": "ANSA",
-        "id": 44,
-        "rss": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml",
-        "language": "italian",
-        "country": "italy"
-    },
-    {
-        "name": "ansa",
-        "fullName": "ANSA",
-        "id": 45,
-        "rss": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
-        "language": "italian",
-        "country": "italy"
-    },
-    {
-        "name": "ansa",
-        "fullName": "ANSA",
-        "id": 46,
-        "rss": "https://www.ansa.it/sito/notizie/economia/economia_rss.xml",
-        "language": "italian",
-        "country": "italy"
-    },
-    {
-        "name": "ansa",
-        "fullName": "ANSA",
-        "id": 47,
-        "rss": "https://www.ansa.it/sito/notizie/cultura/cinema/cinema_rss.xml",
-        "language": "italian",
-        "country": "italy"
-    },
-    {
-        "name": "ansa",
-        "fullName": "ANSA",
-        "id": 48,
-        "rss": "https://www.ansa.it/sito/notizie/cultura/cultura_rss.xml",
-        "language": "italian",
-        "country": "italy"
-    },
-    {
-        "name": "ansa",
-        "fullName": "ANSA",
-        "id": 49,
-        "rss": "https://www.ansa.it/sito/notizie/topnews/topnews_rss.xml",
-        "language": "italian",
-        "country": "italy"
-    },
-        {
         "name": "ilsole24ore",
         "fullName": "Il Sole 24 Ore",
-        "id": 50,
+        "id": 31,
         "rss": "https://www.ilsole24ore.com/rss/italia--attualita.xml",
         "language": "italian",
         "country": "italy"
@@ -402,183 +250,15 @@
     {
         "name": "ilsole24ore",
         "fullName": "Il Sole 24 Ore",
-        "id": 51,
+        "id": 32,
         "rss": "https://www.ilsole24ore.com/rss/italia--politica.xml",
-        "language": "italian",
-        "country": "italy"
-    },
-    {
-        "name": "ilsole24ore",
-        "fullName": "Il Sole 24 Ore",
-        "id": 52,
-        "rss": "https://www.ilsole24ore.com/rss/italia--parlamento.xml",
-        "language": "italian",
-        "country": "italy"
-    },
-    {
-        "name": "ilsole24ore",
-        "fullName": "Il Sole 24 Ore",
-        "id": 53,
-        "rss": "https://www.ilsole24ore.com/rss/mondo--europa.xml",
-        "language": "italian",
-        "country": "italy"
-    },
-    {
-        "name": "ilsole24ore",
-        "fullName": "Il Sole 24 Ore",
-        "id": 54,
-        "rss": "https://www.ilsole24ore.com/rss/mondo--usa.xml",
-        "language": "italian",
-        "country": "italy"
-    },
-    {
-        "name": "ilsole24ore",
-        "fullName": "Il Sole 24 Ore",
-        "id": 55,
-        "rss": "https://www.ilsole24ore.com/rss/mondo--americhe.xml",
-        "language": "italian",
-        "country": "italy"
-    },
-    {
-        "name": "ilsole24ore",
-        "fullName": "Il Sole 24 Ore",
-        "id": 56,
-        "rss": "https://www.ilsole24ore.com/rss/mondo--medio-oriente.xml",
-        "language": "italian",
-        "country": "italy"
-    },
-    {
-        "name": "ilsole24ore",
-        "fullName": "Il Sole 24 Ore",
-        "id": 57,
-        "rss": "https://www.ilsole24ore.com/rss/mondo--asia-e-oceania.xml",
-        "language": "italian",
-        "country": "italy"
-    },
-    {
-        "name": "ilsole24ore",
-        "fullName": "Il Sole 24 Ore",
-        "id": 58,
-        "rss": "https://www.ilsole24ore.com/rss/economia--fondi-ue.xml",
-        "language": "italian",
-        "country": "italy"
-    },
-    {
-        "name": "ilsole24ore",
-        "fullName": "Il Sole 24 Ore",
-        "id": 59,
-        "rss": "https://www.ilsole24ore.com/rss/economia--industria.xml",
-        "language": "italian",
-        "country": "italy"
-    },
-    {
-        "name": "ilsole24ore",
-        "fullName": "Il Sole 24 Ore",
-        "id": 60,
-        "rss": "https://www.ilsole24ore.com/rss/economia--energia-e-ambiente.xml",
-        "language": "italian",
-        "country": "italy"
-    },
-    {
-        "name": "ilsole24ore",
-        "fullName": "Il Sole 24 Ore",
-        "id": 61,
-        "rss": "https://www.ilsole24ore.com/rss/economia--consumi.xml",
-        "language": "italian",
-        "country": "italy"
-    },
-    {
-        "name": "ilsole24ore",
-        "fullName": "Il Sole 24 Ore",
-        "id": 62,
-        "rss": "https://www.ilsole24ore.com/rss/economia--turismo.xml",
-        "language": "italian",
-        "country": "italy"
-    },
-    {
-        "name": "ilsole24ore",
-        "fullName": "Il Sole 24 Ore",
-        "id": 63,
-        "rss": "https://www.ilsole24ore.com/rss/economia--agricoltura.xml",
-        "language": "italian",
-        "country": "italy"
-    },
-    {
-        "name": "ilsole24ore",
-        "fullName": "Il Sole 24 Ore",
-        "id": 64,
-        "rss": "https://www.ilsole24ore.com/rss/economia--lavoro.xml",
-        "language": "italian",
-        "country": "italy"
-    },
-    {
-        "name": "ilsole24ore",
-        "fullName": "Il Sole 24 Ore",
-        "id": 65,
-        "rss": "https://www.ilsole24ore.com/rss/economia--marketing.xml",
-        "language": "italian",
-        "country": "italy"
-    },
-    {
-        "name": "ilsole24ore",
-        "fullName": "Il Sole 24 Ore",
-        "id": 66,
-        "rss": "https://www.ilsole24ore.com/rss/salute--sanita.xml",
-        "language": "italian",
-        "country": "italy"
-    },
-    {
-        "name": "ilsole24ore",
-        "fullName": "Il Sole 24 Ore",
-        "id": 67,
-        "rss": "https://www.ilsole24ore.com/rss/salute--medicina.xml",
-        "language": "italian",
-        "country": "italy"
-    },
-    {
-        "name": "ilsole24ore",
-        "fullName": "Il Sole 24 Ore",
-        "id": 68,
-        "rss": "https://www.ilsole24ore.com/rss/salute--innovazione.xml",
-        "language": "italian",
-        "country": "italy"
-    },
-    {
-        "name": "ilsole24ore",
-        "fullName": "Il Sole 24 Ore",
-        "id": 69,
-        "rss": "https://www.ilsole24ore.com/rss/salute--imprese-e-startup.xml",
-        "language": "italian",
-        "country": "italy"
-    },
-    {
-        "name": "ilsole24ore",
-        "fullName": "Il Sole 24 Ore",
-        "id": 70,
-        "rss": "https://www.ilsole24ore.com/rss/finanza--criptovalute.xml",
-        "language": "italian",
-        "country": "italy"
-    },
-    {
-        "name": "ilsole24ore",
-        "fullName": "Il Sole 24 Ore",
-        "id": 71,
-        "rss": "https://www.ilsole24ore.com/rss/finanza--fintech-e-startup.xml",
-        "language": "italian",
-        "country": "italy"
-    },
-    {
-        "name": "ilsole24ore",
-        "fullName": "Il Sole 24 Ore",
-        "id": 72,
-        "rss": "https://www.ilsole24ore.com/rss/finanza--business.xml",
         "language": "italian",
         "country": "italy"
     },
     {
         "name": "fanpage",
         "fullName": "Fanpage",
-        "id": 73,
+        "id": 33,
         "rss": "https://www.fanpage.it/feed/",
         "language": "italian",
         "country": "italy"
@@ -586,7 +266,7 @@
     {
         "name": "linkiesta",
         "fullName": "Linkiesta",
-        "id": 74,
+        "id": 34,
         "rss": "https://www.linkiesta.it/feed/",
         "language": "italian",
         "country": "italy"
@@ -594,7 +274,7 @@
     {
         "name": "ilfattoquotidiano",
         "fullName": "Il Fatto Quotidiano",
-        "id": 75,
+        "id": 35,
         "rss": "https://www.ilfattoquotidiano.it/feed/",
         "language": "italian",
         "country": "italy"
@@ -602,7 +282,7 @@
     {
         "name": "rainews",
         "fullName": "Rai News",
-        "id": 76,
+        "id": 36,
         "rss": "https://www.rainews.it/rss/tutti",
         "language": "italian",
         "country": "italy"
@@ -610,7 +290,7 @@
     {
         "name": "lindipendente",
         "fullName": "L'indipendente",
-        "id": 77,
+        "id": 37,
         "rss": "https://www.lindipendente.online/feed/",
         "language": "italian",
         "country": "italy"
@@ -618,7 +298,7 @@
     {
         "name": "thewallstreetjournal",
         "fullName": "The Wall Street Journal",
-        "id": 78,
+        "id": 38,
         "rss": "https://feeds.a.dj.com/rss/RSSWorldNews.xml",
         "language": "english",
         "country": "us"
@@ -626,7 +306,7 @@
     {
         "name": "thewallstreetjournal",
         "fullName": "The Wall Street Journal",
-        "id": 79,
+        "id": 39,
         "rss": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
         "language": "english",
         "country": "us"
@@ -634,7 +314,7 @@
     {
         "name": "thewallstreetjournal",
         "fullName": "The Wall Street Journal",
-        "id": 80,
+        "id": 40,
         "rss": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
         "language": "english",
         "country": "us"
@@ -642,7 +322,7 @@
     {
         "name": "thewallstreetjournal",
         "fullName": "The Wall Street Journal",
-        "id": 81,
+        "id": 41,
         "rss": "https://feeds.a.dj.com/rss/RSSWSJD.xml",
         "language": "english",
         "country": "us"
@@ -650,23 +330,15 @@
     {
         "name": "reutersus",
         "fullName": "Reuters US",
-        "id": 82,
+        "id": 42,
         "rss": "https://www.reutersagency.com/feed/?taxonomy=best-sectors&post_type=best",
-        "language": "english",
-        "country": "us"
-    },
-    {
-        "name": "reutersus",
-        "fullName": "Reuters US",
-        "id": 83,
-        "rss": "https://www.reutersagency.com/feed/?taxonomy=best-topics&post_type=best",
         "language": "english",
         "country": "us"
     },
     {
         "name": "nbcnews",
         "fullName": "NBC News",
-        "id": 84,
+        "id": 43,
         "rss": "https://feeds.nbcnews.com/nbcnews/public/news",
         "language": "english",
         "country": "us"
@@ -674,296 +346,32 @@
     {
         "name": "abcnews",
         "fullName": "ABC News",
-        "id": 85,
+        "id": 44,
         "rss": "https://abcnews.go.com/abcnews/topstories",
         "language": "english",
         "country": "us"
     },
     {
-        "name": "abcnews",
-        "fullName": "ABC News",
-        "id": 86,
-        "rss": "https://abcnews.go.com/abcnews/usheadlines",
-        "language": "english",
-        "country": "us"
-    },
-    {
-        "name": "abcnews",
-        "fullName": "ABC News",
-        "id": 87,
-        "rss": "https://abcnews.go.com/abcnews/internationalheadlines",
-        "language": "english",
-        "country": "us"
-    },
-    {
-        "name": "abcnews",
-        "fullName": "ABC News",
-        "id": 88,
-        "rss": "https://abcnews.go.com/abcnews/politicsheadlines",
-        "language": "english",
-        "country": "us"
-    },
-    {
-        "name": "abcnews",
-        "fullName": "ABC News",
-        "id": 89,
-        "rss": "https://abcnews.go.com/abcnews/moneyheadlines",
-        "language": "english",
-        "country": "us"
-    },
-    {
-        "name": "abcnews",
-        "fullName": "ABC News",
-        "id": 90,
-        "rss": "https://abcnews.go.com/abcnews/technologyheadlines",
-        "language": "english",
-        "country": "us"
-    },
-    {
-        "name": "abcnews",
-        "fullName": "ABC News",
-        "id": 91,
-        "rss": "https://abcnews.go.com/abcnews/healthheadlines",
-        "language": "english",
-        "country": "us"
-    },
-    {
-        "name": "abcnews",
-        "fullName": "ABC News",
-        "id": 92,
-        "rss": "https://abcnews.go.com/abcnews/entertainmentheadlines",
-        "language": "english",
-        "country": "us"
-    },
-    {
-        "name": "abcnews",
-        "fullName": "ABC News",
-        "id": 93,
-        "rss": "https://abcnews.go.com/abcnews/travelheadlines",
-        "language": "english",
-        "country": "us"
-    },
-    {
         "name": "cbsnews",
         "fullName": "CBS News",
-        "id": 94,
+        "id": 45,
         "rss": "https://www.cbsnews.com/latest/rss/main",
         "language": "english",
         "country": "us"
     },
     {
-        "name": "cbsnews",
-        "fullName": "CBS News",
-        "id": 95,
-        "rss": "https://www.cbsnews.com/latest/rss/us",
-        "language": "english",
-        "country": "us"
-    },
-    {
-        "name": "cbsnews",
-        "fullName": "CBS News",
-        "id": 96,
-        "rss": "https://www.cbsnews.com/latest/rss/politics",
-        "language": "english",
-        "country": "us"
-    },
-    {
-        "name": "cbsnews",
-        "fullName": "CBS News",
-        "id": 97,
-        "rss": "https://www.cbsnews.com/latest/rss/world",
-        "language": "english",
-        "country": "us"
-    },
-    {
-        "name": "cbsnews",
-        "fullName": "CBS News",
-        "id": 98,
-        "rss": "https://www.cbsnews.com/latest/rss/health",
-        "language": "english",
-        "country": "us"
-    },
-    {
-        "name": "cbsnews",
-        "fullName": "CBS News",
-        "id": 99,
-        "rss": "https://www.cbsnews.com/latest/rss/science",
-        "language": "english",
-        "country": "us"
-    },
-    {
-        "name": "cbsnews",
-        "fullName": "CBS News",
-        "id": 100,
-        "rss": "https://www.cbsnews.com/latest/rss/technology",
-        "language": "english",
-        "country": "us"
-    },
-    {
-        "name": "cbsnews",
-        "fullName": "CBS News",
-        "id": 101,
-        "rss": "https://www.cbsnews.com/latest/rss/space",
-        "language": "english",
-        "country": "us"
-    },
-    {
-        "name": "cbsnews",
-        "fullName": "CBS News",
-        "id": 102,
-        "rss": "https://www.cbsnews.com/latest/rss/entertainment",
-        "language": "english",
-        "country": "us"
-    },
-    {
-        "name": "foxnews",
-        "fullName": "Fox News",
-        "id": 103,
-        "rss": "https://moxie.foxnews.com/google-publisher/world.xml",
-        "language": "english",
-        "country": "us"
-    },
-    {
-        "name": "foxnews",
-        "fullName": "Fox News",
-        "id": 104,
-        "rss": "https://moxie.foxnews.com/google-publisher/us.xml",
-        "language": "english",
-        "country": "us"
-    },
-    {
         "name": "politico",
         "fullName": "Politico",
-        "id": 105,
+        "id": 46,
         "rss": "https://rss.politico.com/politics-news.xml",
         "language": "english",
         "country": "us"
     },
     {
-        "name": "politico",
-        "fullName": "Politico",
-        "id": 106,
-        "rss": "https://rss.politico.com/energy.xml",
-        "language": "english",
-        "country": "us"
-    },
-    {
-        "name": "politico",
-        "fullName": "Politico",
-        "id": 107,
-        "rss": "https://rss.politico.com/economy.xml",
-        "language": "english",
-        "country": "us"
-    },
-    {
-        "name": "politico",
-        "fullName": "Politico",
-        "id": 108,
-        "rss": "https://rss.politico.com/defense.xml",
-        "language": "english",
-        "country": "us"
-    },
-    {
-        "name": "politico",
-        "fullName": "Politico",
-        "id": 109,
-        "rss": "https://rss.politico.com/healthcare.xml",
-        "language": "english",
-        "country": "us"
-    },
-    {
-        "name": "politico",
-        "fullName": "Politico",
-        "id": 110,
-        "rss": "https://rss.politico.com/congress.xml",
-        "language": "english",
-        "country": "us"
-    },
-    {
         "name": "thenewyorker",
         "fullName": "The New Yorker",
-        "id": 111,
+        "id": 47,
         "rss": "https://www.newyorker.com/feed/news",
-        "language": "english",
-        "country": "us"
-    },
-    {
-        "name": "thenewyorker",
-        "fullName": "The New Yorker",
-        "id": 112,
-        "rss": "https://www.newyorker.com/feed/culture",
-        "language": "english",
-        "country": "us"
-    },
-    {
-        "name": "thenewyorker",
-        "fullName": "The New Yorker",
-        "id": 113,
-        "rss": "https://www.newyorker.com/feed/tech",
-        "language": "english",
-        "country": "us"
-    },
-    {
-        "name": "thenewyorker",
-        "fullName": "The New Yorker",
-        "id": 114,
-        "rss": "https://www.newyorker.com/feed/news/sporting-scene",
-        "language": "english",
-        "country": "us"
-    },
-    {
-        "name": "propublica",
-        "fullName": "ProPublica",
-        "id": 115,
-        "rss": "https://www.propublica.org/feeds/propublica/main",
-        "language": "english",
-        "country": "us"
-    },
-    {
-        "name": "buzzfeednews",
-        "fullName": "BuzzFeed News",
-        "id": 116,
-        "rss": "https://www.buzzfeed.com/index.xml",
-        "language": "english",
-        "country": "us"
-    },
-    {
-        "name": "vox",
-        "fullName": "Vox",
-        "id": 117,
-        "rss": "https://www.vox.com/rss/index.xml",
-        "language": "english",
-        "country": "us"
-    },
-    {
-        "name": "slate",
-        "fullName": "Slate",
-        "id": 118,
-        "rss": "https://slate.com/feeds/all.rss",
-        "language": "english",
-        "country": "us"
-    },
-    {
-        "name": "thedailybeast",
-        "fullName": "The Daily Beast",
-        "id": 119,
-        "rss": "https://feeds.thedailybeast.com/rss/articles",
-        "language": "english",
-        "country": "us"
-    },
-    {
-        "name": "thehill",
-        "fullName": "The Hill",
-        "id": 120,
-        "rss": "https://thehill.com/homenews/feed/",
-        "language": "english",
-        "country": "us"
-    },
-    {
-        "name": "marketwatch",
-        "fullName": "MarketWatch",
-        "id": 121,
-        "rss": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
         "language": "english",
         "country": "us"
     }
