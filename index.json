@@ -390,5 +390,189 @@
         "rss": "https://www.ansa.it/sito/notizie/topnews/topnews_rss.xml",
         "language": "italian",
         "country": "italy"
+    },
+        {
+        "name": "ilsole24ore",
+        "fullName": "Il Sole 24 Ore",
+        "id": 50,
+        "rss": "https://www.ilsole24ore.com/rss/italia--attualita.xml",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
+        "name": "ilsole24ore",
+        "fullName": "Il Sole 24 Ore",
+        "id": 51,
+        "rss": "https://www.ilsole24ore.com/rss/italia--politica.xml",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
+        "name": "ilsole24ore",
+        "fullName": "Il Sole 24 Ore",
+        "id": 52,
+        "rss": "https://www.ilsole24ore.com/rss/italia--parlamento.xml",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
+        "name": "ilsole24ore",
+        "fullName": "Il Sole 24 Ore",
+        "id": 53,
+        "rss": "https://www.ilsole24ore.com/rss/mondo--europa.xml",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
+        "name": "ilsole24ore",
+        "fullName": "Il Sole 24 Ore",
+        "id": 54,
+        "rss": "https://www.ilsole24ore.com/rss/mondo--usa.xml",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
+        "name": "ilsole24ore",
+        "fullName": "Il Sole 24 Ore",
+        "id": 55,
+        "rss": "https://www.ilsole24ore.com/rss/mondo--americhe.xml",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
+        "name": "ilsole24ore",
+        "fullName": "Il Sole 24 Ore",
+        "id": 56,
+        "rss": "https://www.ilsole24ore.com/rss/mondo--medio-oriente.xml",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
+        "name": "ilsole24ore",
+        "fullName": "Il Sole 24 Ore",
+        "id": 57,
+        "rss": "https://www.ilsole24ore.com/rss/mondo--asia-e-oceania.xml",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
+        "name": "ilsole24ore",
+        "fullName": "Il Sole 24 Ore",
+        "id": 58,
+        "rss": "https://www.ilsole24ore.com/rss/economia--fondi-ue.xml",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
+        "name": "ilsole24ore",
+        "fullName": "Il Sole 24 Ore",
+        "id": 59,
+        "rss": "https://www.ilsole24ore.com/rss/economia--industria.xml",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
+        "name": "ilsole24ore",
+        "fullName": "Il Sole 24 Ore",
+        "id": 60,
+        "rss": "https://www.ilsole24ore.com/rss/economia--energia-e-ambiente.xml",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
+        "name": "ilsole24ore",
+        "fullName": "Il Sole 24 Ore",
+        "id": 61,
+        "rss": "https://www.ilsole24ore.com/rss/economia--consumi.xml",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
+        "name": "ilsole24ore",
+        "fullName": "Il Sole 24 Ore",
+        "id": 62,
+        "rss": "https://www.ilsole24ore.com/rss/economia--turismo.xml",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
+        "name": "ilsole24ore",
+        "fullName": "Il Sole 24 Ore",
+        "id": 63,
+        "rss": "https://www.ilsole24ore.com/rss/economia--agricoltura.xml",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
+        "name": "ilsole24ore",
+        "fullName": "Il Sole 24 Ore",
+        "id": 64,
+        "rss": "https://www.ilsole24ore.com/rss/economia--lavoro.xml",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
+        "name": "ilsole24ore",
+        "fullName": "Il Sole 24 Ore",
+        "id": 65,
+        "rss": "https://www.ilsole24ore.com/rss/economia--marketing.xml",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
+        "name": "ilsole24ore",
+        "fullName": "Il Sole 24 Ore",
+        "id": 66,
+        "rss": "https://www.ilsole24ore.com/rss/salute--sanita.xml",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
+        "name": "ilsole24ore",
+        "fullName": "Il Sole 24 Ore",
+        "id": 67,
+        "rss": "https://www.ilsole24ore.com/rss/salute--medicina.xml",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
+        "name": "ilsole24ore",
+        "fullName": "Il Sole 24 Ore",
+        "id": 68,
+        "rss": "https://www.ilsole24ore.com/rss/salute--innovazione.xml",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
+        "name": "ilsole24ore",
+        "fullName": "Il Sole 24 Ore",
+        "id": 69,
+        "rss": "https://www.ilsole24ore.com/rss/salute--imprese-e-startup.xml",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
+        "name": "ilsole24ore",
+        "fullName": "Il Sole 24 Ore",
+        "id": 70,
+        "rss": "https://www.ilsole24ore.com/rss/finanza--criptovalute.xml",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
+        "name": "ilsole24ore",
+        "fullName": "Il Sole 24 Ore",
+        "id": 71,
+        "rss": "https://www.ilsole24ore.com/rss/finanza--fintech-e-startup.xml",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
+        "name": "ilsole24ore",
+        "fullName": "Il Sole 24 Ore",
+        "id": 72,
+        "rss": "https://www.ilsole24ore.com/rss/finanza--business.xml",
+        "language": "italian",
+        "country": "italy"
     }
 ]
