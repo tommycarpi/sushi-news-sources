@@ -614,5 +614,357 @@
         "rss": "https://www.lindipendente.online/feed/",
         "language": "italian",
         "country": "italy"
+    },
+    {
+        "name": "thewallstreetjournal",
+        "fullName": "The Wall Street Journal",
+        "id": 78,
+        "rss": "https://feeds.a.dj.com/rss/RSSWorldNews.xml",
+        "language": "english",
+        "country": "us"
+    },
+    {
+        "name": "thewallstreetjournal",
+        "fullName": "The Wall Street Journal",
+        "id": 79,
+        "rss": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "language": "english",
+        "country": "us"
+    },
+    {
+        "name": "thewallstreetjournal",
+        "fullName": "The Wall Street Journal",
+        "id": 80,
+        "rss": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "language": "english",
+        "country": "us"
+    },
+    {
+        "name": "thewallstreetjournal",
+        "fullName": "The Wall Street Journal",
+        "id": 81,
+        "rss": "https://feeds.a.dj.com/rss/RSSWSJD.xml",
+        "language": "english",
+        "country": "us"
+    },
+    {
+        "name": "reutersus",
+        "fullName": "Reuters US",
+        "id": 82,
+        "rss": "https://www.reutersagency.com/feed/?taxonomy=best-sectors&post_type=best",
+        "language": "english",
+        "country": "us"
+    },
+    {
+        "name": "reutersus",
+        "fullName": "Reuters US",
+        "id": 83,
+        "rss": "https://www.reutersagency.com/feed/?taxonomy=best-topics&post_type=best",
+        "language": "english",
+        "country": "us"
+    },
+    {
+        "name": "nbcnews",
+        "fullName": "NBC News",
+        "id": 84,
+        "rss": "https://feeds.nbcnews.com/nbcnews/public/news",
+        "language": "english",
+        "country": "us"
+    },
+    {
+        "name": "abcnews",
+        "fullName": "ABC News",
+        "id": 85,
+        "rss": "https://abcnews.go.com/abcnews/topstories",
+        "language": "english",
+        "country": "us"
+    },
+    {
+        "name": "abcnews",
+        "fullName": "ABC News",
+        "id": 86,
+        "rss": "https://abcnews.go.com/abcnews/usheadlines",
+        "language": "english",
+        "country": "us"
+    },
+    {
+        "name": "abcnews",
+        "fullName": "ABC News",
+        "id": 87,
+        "rss": "https://abcnews.go.com/abcnews/internationalheadlines",
+        "language": "english",
+        "country": "us"
+    },
+    {
+        "name": "abcnews",
+        "fullName": "ABC News",
+        "id": 88,
+        "rss": "https://abcnews.go.com/abcnews/politicsheadlines",
+        "language": "english",
+        "country": "us"
+    },
+    {
+        "name": "abcnews",
+        "fullName": "ABC News",
+        "id": 89,
+        "rss": "https://abcnews.go.com/abcnews/moneyheadlines",
+        "language": "english",
+        "country": "us"
+    },
+    {
+        "name": "abcnews",
+        "fullName": "ABC News",
+        "id": 90,
+        "rss": "https://abcnews.go.com/abcnews/technologyheadlines",
+        "language": "english",
+        "country": "us"
+    },
+    {
+        "name": "abcnews",
+        "fullName": "ABC News",
+        "id": 91,
+        "rss": "https://abcnews.go.com/abcnews/healthheadlines",
+        "language": "english",
+        "country": "us"
+    },
+    {
+        "name": "abcnews",
+        "fullName": "ABC News",
+        "id": 92,
+        "rss": "https://abcnews.go.com/abcnews/entertainmentheadlines",
+        "language": "english",
+        "country": "us"
+    },
+    {
+        "name": "abcnews",
+        "fullName": "ABC News",
+        "id": 93,
+        "rss": "https://abcnews.go.com/abcnews/travelheadlines",
+        "language": "english",
+        "country": "us"
+    },
+    {
+        "name": "cbsnews",
+        "fullName": "CBS News",
+        "id": 94,
+        "rss": "https://www.cbsnews.com/latest/rss/main",
+        "language": "english",
+        "country": "us"
+    },
+    {
+        "name": "cbsnews",
+        "fullName": "CBS News",
+        "id": 95,
+        "rss": "https://www.cbsnews.com/latest/rss/us",
+        "language": "english",
+        "country": "us"
+    },
+    {
+        "name": "cbsnews",
+        "fullName": "CBS News",
+        "id": 96,
+        "rss": "https://www.cbsnews.com/latest/rss/politics",
+        "language": "english",
+        "country": "us"
+    },
+    {
+        "name": "cbsnews",
+        "fullName": "CBS News",
+        "id": 97,
+        "rss": "https://www.cbsnews.com/latest/rss/world",
+        "language": "english",
+        "country": "us"
+    },
+    {
+        "name": "cbsnews",
+        "fullName": "CBS News",
+        "id": 98,
+        "rss": "https://www.cbsnews.com/latest/rss/health",
+        "language": "english",
+        "country": "us"
+    },
+    {
+        "name": "cbsnews",
+        "fullName": "CBS News",
+        "id": 99,
+        "rss": "https://www.cbsnews.com/latest/rss/science",
+        "language": "english",
+        "country": "us"
+    },
+    {
+        "name": "cbsnews",
+        "fullName": "CBS News",
+        "id": 100,
+        "rss": "https://www.cbsnews.com/latest/rss/technology",
+        "language": "english",
+        "country": "us"
+    },
+    {
+        "name": "cbsnews",
+        "fullName": "CBS News",
+        "id": 101,
+        "rss": "https://www.cbsnews.com/latest/rss/space",
+        "language": "english",
+        "country": "us"
+    },
+    {
+        "name": "cbsnews",
+        "fullName": "CBS News",
+        "id": 102,
+        "rss": "https://www.cbsnews.com/latest/rss/entertainment",
+        "language": "english",
+        "country": "us"
+    },
+    {
+        "name": "foxnews",
+        "fullName": "Fox News",
+        "id": 103,
+        "rss": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "language": "english",
+        "country": "us"
+    },
+    {
+        "name": "foxnews",
+        "fullName": "Fox News",
+        "id": 104,
+        "rss": "https://moxie.foxnews.com/google-publisher/us.xml",
+        "language": "english",
+        "country": "us"
+    },
+    {
+        "name": "politico",
+        "fullName": "Politico",
+        "id": 105,
+        "rss": "https://rss.politico.com/politics-news.xml",
+        "language": "english",
+        "country": "us"
+    },
+    {
+        "name": "politico",
+        "fullName": "Politico",
+        "id": 106,
+        "rss": "https://rss.politico.com/energy.xml",
+        "language": "english",
+        "country": "us"
+    },
+    {
+        "name": "politico",
+        "fullName": "Politico",
+        "id": 107,
+        "rss": "https://rss.politico.com/economy.xml",
+        "language": "english",
+        "country": "us"
+    },
+    {
+        "name": "politico",
+        "fullName": "Politico",
+        "id": 108,
+        "rss": "https://rss.politico.com/defense.xml",
+        "language": "english",
+        "country": "us"
+    },
+    {
+        "name": "politico",
+        "fullName": "Politico",
+        "id": 109,
+        "rss": "https://rss.politico.com/healthcare.xml",
+        "language": "english",
+        "country": "us"
+    },
+    {
+        "name": "politico",
+        "fullName": "Politico",
+        "id": 110,
+        "rss": "https://rss.politico.com/congress.xml",
+        "language": "english",
+        "country": "us"
+    },
+    {
+        "name": "thenewyorker",
+        "fullName": "The New Yorker",
+        "id": 111,
+        "rss": "https://www.newyorker.com/feed/news",
+        "language": "english",
+        "country": "us"
+    },
+    {
+        "name": "thenewyorker",
+        "fullName": "The New Yorker",
+        "id": 112,
+        "rss": "https://www.newyorker.com/feed/culture",
+        "language": "english",
+        "country": "us"
+    },
+    {
+        "name": "thenewyorker",
+        "fullName": "The New Yorker",
+        "id": 113,
+        "rss": "https://www.newyorker.com/feed/tech",
+        "language": "english",
+        "country": "us"
+    },
+    {
+        "name": "thenewyorker",
+        "fullName": "The New Yorker",
+        "id": 114,
+        "rss": "https://www.newyorker.com/feed/news/sporting-scene",
+        "language": "english",
+        "country": "us"
+    },
+    {
+        "name": "propublica",
+        "fullName": "ProPublica",
+        "id": 115,
+        "rss": "https://www.propublica.org/feeds/propublica/main",
+        "language": "english",
+        "country": "us"
+    },
+    {
+        "name": "buzzfeednews",
+        "fullName": "BuzzFeed News",
+        "id": 116,
+        "rss": "https://www.buzzfeed.com/index.xml",
+        "language": "english",
+        "country": "us"
+    },
+    {
+        "name": "vox",
+        "fullName": "Vox",
+        "id": 117,
+        "rss": "https://www.vox.com/rss/index.xml",
+        "language": "english",
+        "country": "us"
+    },
+    {
+        "name": "slate",
+        "fullName": "Slate",
+        "id": 118,
+        "rss": "https://slate.com/feeds/all.rss",
+        "language": "english",
+        "country": "us"
+    },
+    {
+        "name": "thedailybeast",
+        "fullName": "The Daily Beast",
+        "id": 119,
+        "rss": "https://feeds.thedailybeast.com/rss/articles",
+        "language": "english",
+        "country": "us"
+    },
+    {
+        "name": "thehill",
+        "fullName": "The Hill",
+        "id": 120,
+        "rss": "https://thehill.com/homenews/feed/",
+        "language": "english",
+        "country": "us"
+    },
+    {
+        "name": "marketwatch",
+        "fullName": "MarketWatch",
+        "id": 121,
+        "rss": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "language": "english",
+        "country": "us"
     }
 ]
