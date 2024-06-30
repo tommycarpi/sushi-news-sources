@@ -301,7 +301,7 @@
         "id": 38,
         "rss": "https://feeds.a.dj.com/rss/RSSWorldNews.xml",
         "language": "english",
-        "country": "us"
+        "country": "usa"
     },
     {
         "name": "thewallstreetjournal",
@@ -309,7 +309,7 @@
         "id": 39,
         "rss": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
         "language": "english",
-        "country": "us"
+        "country": "usa"
     },
     {
         "name": "thewallstreetjournal",
@@ -317,7 +317,7 @@
         "id": 40,
         "rss": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
         "language": "english",
-        "country": "us"
+        "country": "usa"
     },
     {
         "name": "thewallstreetjournal",
@@ -325,15 +325,15 @@
         "id": 41,
         "rss": "https://feeds.a.dj.com/rss/RSSWSJD.xml",
         "language": "english",
-        "country": "us"
+        "country": "usa"
     },
     {
-        "name": "reutersus",
-        "fullName": "Reuters US",
+        "name": "reutersusa",
+        "fullName": "Reuters usa",
         "id": 42,
         "rss": "https://www.reutersagency.com/feed/?taxonomy=best-sectors&post_type=best",
         "language": "english",
-        "country": "us"
+        "country": "usa"
     },
     {
         "name": "nbcnews",
@@ -341,7 +341,7 @@
         "id": 43,
         "rss": "https://feeds.nbcnews.com/nbcnews/public/news",
         "language": "english",
-        "country": "us"
+        "country": "usa"
     },
     {
         "name": "abcnews",
@@ -349,7 +349,7 @@
         "id": 44,
         "rss": "https://abcnews.go.com/abcnews/topstories",
         "language": "english",
-        "country": "us"
+        "country": "usa"
     },
     {
         "name": "cbsnews",
@@ -357,7 +357,7 @@
         "id": 45,
         "rss": "https://www.cbsnews.com/latest/rss/main",
         "language": "english",
-        "country": "us"
+        "country": "usa"
     },
     {
         "name": "politico",
@@ -365,7 +365,7 @@
         "id": 46,
         "rss": "https://rss.politico.com/politics-news.xml",
         "language": "english",
-        "country": "us"
+        "country": "usa"
     },
     {
         "name": "thenewyorker",
@@ -373,6 +373,6 @@
         "id": 47,
         "rss": "https://www.newyorker.com/feed/news",
         "language": "english",
-        "country": "us"
+        "country": "usa"
     }
 ]
