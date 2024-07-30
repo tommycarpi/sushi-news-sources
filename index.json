@@ -61,270 +61,38 @@
         "id": 8,
         "rss": "http://rss.cnn.com/rss/edition.rss",
         "language": "english",
-        "country": "usa"
-    },
-    {
-        "name": "npr",
-        "fullName": "NPR",
-        "id": 15,
-        "rss": "https://feeds.npr.org/1001/rss.xml",
-        "language": "english",
-        "country": "usa"
-    },
-    {
-        "name": "pbs",
-        "fullName": "PBS",
-        "id": 16,
-        "rss": "https://www.pbs.org/newshour/feeds/rss/headlines",
-        "language": "english",
-        "country": "usa"
-    },
-    {
-        "name": "newyorktimes",
-        "fullName": "New York Times",
-        "id": 17,
-        "rss": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
-        "language": "english",
-        "country": "usa"
-    },
-    {
-        "name": "washingtonpost",
-        "fullName": "Washington Post",
-        "id": 18,
-        "rss": "https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_35",
-        "language": "english",
-        "country": "usa"
-    },
-    {
-        "name": "usatoday",
-        "fullName": "USA Today",
-        "id": 19,
-        "rss": "https://rss.app/feeds/1bHbGTqBEj46VVFJ.xml",
-        "language": "english",
-        "country": "usa"
-    },
-    {
-        "name": "latimes",
-        "fullName": "Los Angeles Times",
-        "id": 20,
-        "rss": "https://www.latimes.com/world-nation/rss2.0.xml#nt=0000016c-0bf3-d57d-afed-2fff84fd0000-1col-7030col1",
-        "language": "english",
-        "country": "usa"
-    },
-    {
-        "name": "huffpost",
-        "fullName": "HuffPost",
-        "id": 21,
-        "rss": "https://chaski.huffpost.com/us/auto/vertical/us-news",
-        "language": "english",
-        "country": "usa"
-    },
-    {
-        "name": "theindependent",
-        "fullName": "The Independent",
-        "id": 22,
-        "rss": "https://www.independent.co.uk/us/rss",
-        "language": "english",
-        "country": "usa"
-    },
-    {
-        "name": "chicagotribune",
-        "fullName": "Chicago Tribune",
-        "id": 23,
-        "rss": "https://www.chicagotribune.com/feed/",
-        "language": "english",
-        "country": "usa"
-    },
-    {
-        "name": "bostonglobe",
-        "fullName": "The Boston Globe",
-        "id": 24,
-        "rss": "https://rss.app/feeds/75THqF2JIodaIrxp.xml",
-        "language": "english",
-        "country": "usa"
-    },
-    {
-        "name": "startribune",
-        "fullName": "Star Tribune",
-        "id": 25,
-        "rss": "https://www.startribune.com/rss/?sf=1&s=/",
-        "language": "english",
-        "country": "usa"
-    },
-    {
-        "name": "ilpost",
-        "fullName": "Il Post",
-        "id": 26,
-        "rss": "https://www.ilpost.it/feed",
-        "language": "italian",
-        "country": "italy"
-    },
-    {
-        "name": "agi",
-        "fullName": "AGI",
-        "id": 27,
-        "rss": "https://www.agi.it/cronaca/rss",
-        "language": "italian",
-        "country": "italy"
-    },
-    {
-        "name": "agi",
-        "fullName": "AGI",
-        "id": 28,
-        "rss": "https://www.agi.it/economia/rss",
-        "language": "italian",
-        "country": "italy"
-    },
-    {
-        "name": "agi",
-        "fullName": "AGI",
-        "id": 29,
-        "rss": "https://www.agi.it/estero/rss",
-        "language": "italian",
-        "country": "italy"
-    },
-    {
-        "name": "adnkronos",
-        "fullName": "Adnkronos",
-        "id": 30,
-        "rss": "https://www.adnkronos.com/RSS_Ultimora.xml",
-        "language": "italian",
-        "country": "italy"
-    },
-    {
-        "name": "ilsole24ore",
-        "fullName": "Il Sole 24 Ore",
-        "id": 31,
-        "rss": "https://www.ilsole24ore.com/rss/italia--attualita.xml",
-        "language": "italian",
-        "country": "italy"
-    },
-    {
-        "name": "ilsole24ore",
-        "fullName": "Il Sole 24 Ore",
-        "id": 32,
-        "rss": "https://www.ilsole24ore.com/rss/italia--politica.xml",
-        "language": "italian",
-        "country": "italy"
-    },
-    {
-        "name": "fanpage",
-        "fullName": "Fanpage",
-        "id": 33,
-        "rss": "https://www.fanpage.it/feed/",
-        "language": "italian",
-        "country": "italy"
-    },
-    {
-        "name": "linkiesta",
-        "fullName": "Linkiesta",
-        "id": 34,
-        "rss": "https://www.linkiesta.it/feed/",
-        "language": "italian",
-        "country": "italy"
-    },
-    {
-        "name": "ilfattoquotidiano",
-        "fullName": "Il Fatto Quotidiano",
-        "id": 35,
-        "rss": "https://www.ilfattoquotidiano.it/feed/",
-        "language": "italian",
-        "country": "italy"
-    },
-    {
-        "name": "rainews",
-        "fullName": "Rai News",
-        "id": 36,
-        "rss": "https://www.rainews.it/rss/tutti",
-        "language": "italian",
-        "country": "italy"
-    },
-    {
-        "name": "lindipendente",
-        "fullName": "L'indipendente",
-        "id": 37,
-        "rss": "https://www.lindipendente.online/feed/",
-        "language": "italian",
-        "country": "italy"
-    },
-    {
-        "name": "thewallstreetjournal",
-        "fullName": "The Wall Street Journal",
-        "id": 38,
-        "rss": "https://feeds.a.dj.com/rss/RSSWorldNews.xml",
-        "language": "english",
         "country": "us"
-    },
-    {
-        "name": "thewallstreetjournal",
-        "fullName": "The Wall Street Journal",
-        "id": 39,
-        "rss": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
-        "language": "english",
-        "country": "us"
-    },
-    {
-        "name": "thewallstreetjournal",
-        "fullName": "The Wall Street Journal",
-        "id": 40,
-        "rss": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
-        "language": "english",
-        "country": "us"
-    },
-    {
-        "name": "thewallstreetjournal",
-        "fullName": "The Wall Street Journal",
-        "id": 41,
-        "rss": "https://feeds.a.dj.com/rss/RSSWSJD.xml",
-        "language": "english",
-        "country": "usa"
     },
     {
         "name": "reutersus",
         "fullName": "Reuters US",
-        "id": 42,
+        "id": 9,
         "rss": "https://www.reutersagency.com/feed/?taxonomy=best-sectors&post_type=best",
         "language": "english",
-        "country": "usa"
-    },
-    {
-        "name": "nbcnews",
-        "fullName": "NBC News",
-        "id": 43,
-        "rss": "https://feeds.nbcnews.com/nbcnews/public/news",
-        "language": "english",
         "country": "us"
     },
     {
-        "name": "abcnews",
-        "fullName": "ABC News",
-        "id": 44,
-        "rss": "https://abcnews.go.com/abcnews/topstories",
-        "language": "english",
-        "country": "us"
+        "name": "lemonde",
+        "fullName": "Le Monde",
+        "id": 10,
+        "rss": "https://www.lemonde.fr/en/rss/une.xml",
+        "language": "french",
+        "country": "france"
     },
     {
-        "name": "cbsnews",
-        "fullName": "CBS News",
-        "id": 45,
-        "rss": "https://www.cbsnews.com/latest/rss/main",
-        "language": "english",
-        "country": "us"
+        "name": "lefigaro",
+        "fullName": "Le Figaro",
+        "id": 11,
+        "rss": "https://www.lefigaro.fr/rss/figaro_actualite-france.xml",
+        "language": "french",
+        "country": "france"
     },
     {
-        "name": "politico",
-        "fullName": "Politico",
-        "id": 46,
-        "rss": "https://rss.politico.com/politics-news.xml",
-        "language": "english",
-        "country": "us"
-    },
-    {
-        "name": "thenewyorker",
-        "fullName": "The New Yorker",
-        "id": 47,
-        "rss": "https://www.newyorker.com/feed/news",
-        "language": "english",
-        "country": "us"
+        "name": "liberation",
+        "fullName": "Libération",
+        "id": 12,
+        "rss": "https://www.liberation.fr/arc/outboundfeeds/rss-all/?outputType=xml",
+        "language": "french",
+        "country": "france"
     }
 ]
