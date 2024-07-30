@@ -94,5 +94,21 @@
         "rss": "https://www.liberation.fr/arc/outboundfeeds/rss-all/?outputType=xml",
         "language": "french",
         "country": "france"
+    },
+    {
+        "name": "bbcnews",
+        "fullName": "BBC News",
+        "id": 13,
+        "rss": "https://feeds.bbci.co.uk/news/rss.xml",
+        "language": "english",
+        "country": "uk"
+    },
+    {
+        "name": "thetimes",
+        "fullName": "The Times",
+        "id": 14,
+        "rss": "https://www.times-series.co.uk/news/rss/",
+        "language": "english",
+        "country": "uk"
     }
 ]
