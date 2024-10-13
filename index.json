@@ -246,5 +246,21 @@
         "rss": "https://www.theguardian.com/uk/rss",
         "language": "english",
         "country": "uk"
+    },
+    {
+        "name": "thetelegraph",
+        "fullName": "The Telegraph",
+        "id": 32,
+        "rss": "https://www.telegraph.co.uk/rss.xml",
+        "language": "english",
+        "country": "uk"
+    },
+    {
+        "name": "skynews",
+        "fullName": "Sky News",
+        "id": 33,
+        "rss": "https://feeds.skynews.com/feeds/rss/home.xml",
+        "language": "english",
+        "country": "uk"
     }
 ]
