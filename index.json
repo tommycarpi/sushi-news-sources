@@ -192,9 +192,33 @@
         "country": "france"
     },
     {
+        "name": "rue89",
+        "fullName": "Rue89",
+        "id": 25,
+        "rss": "https://www.nouvelobs.com/monde/rss.xml",
+        "language": "french",
+        "country": "france"
+    },
+    {
+        "name": "challenges",
+        "fullName": "Challenges",
+        "id": 26,
+        "rss": "https://www.challenges.fr/rss.xml",
+        "language": "french",
+        "country": "france"
+    },
+    {
+        "name": "lesechos",
+        "fullName": "Les Échos",
+        "id": 27,
+        "rss": "https://services.lesechos.fr/rss/les-echos-economie.xml",
+        "language": "french",
+        "country": "france"
+    },
+    {
         "name": "bbcnews",
         "fullName": "BBC News",
-        "id": 25,
+        "id": 28,
         "rss": "https://feeds.bbci.co.uk/news/rss.xml",
         "language": "english",
         "country": "uk"
@@ -202,7 +226,7 @@
     {
         "name": "thetimes",
         "fullName": "The Times",
-        "id": 26,
+        "id": 29,
         "rss": "https://www.times-series.co.uk/news/rss/",
         "language": "english",
         "country": "uk"
@@ -210,7 +234,7 @@
     {
         "name": "theindependent",
         "fullName": "The Independent",
-        "id": 27,
+        "id": 30,
         "rss": "https://www.independent.co.uk/news/uk/rss",
         "language": "english",
         "country": "uk"
@@ -218,7 +242,7 @@
     {
         "name": "theguardian",
         "fullName": "The Guardian",
-        "id": 28,
+        "id": 31,
         "rss": "https://www.theguardian.com/uk/rss",
         "language": "english",
         "country": "uk"
