@@ -259,7 +259,7 @@
         "name": "skynews",
         "fullName": "Sky News",
         "id": 33,
-        "rss": "https://feeds.skynews.com/feeds/rss/home.xml",
+        "rss": "https://feeds.skynews.com/feeds/rss/uk.xml",
         "language": "english",
         "country": "uk"
     }
