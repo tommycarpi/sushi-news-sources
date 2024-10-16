@@ -262,5 +262,13 @@
         "rss": "https://feeds.skynews.com/feeds/rss/uk.xml",
         "language": "english",
         "country": "uk"
+    },
+    {
+        "name": "thei",
+        "fullName": "The i",
+        "id": 34,
+        "rss": "https://inews.co.uk/feed",
+        "language": "english",
+        "country": "uk"
     }
 ]
