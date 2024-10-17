@@ -280,9 +280,33 @@
         "country": "france"
     },
     {
+        "name": "rue89",
+        "fullName": "Rue89",
+        "id": 36,
+        "rss": "https://www.nouvelobs.com/monde/rss.xml",
+        "language": "french",
+        "country": "france"
+    },
+    {
+        "name": "challenges",
+        "fullName": "Challenges",
+        "id": 37,
+        "rss": "https://www.challenges.fr/rss.xml",
+        "language": "french",
+        "country": "france"
+    },
+    {
+        "name": "lesechos",
+        "fullName": "Les Échos",
+        "id": 38,
+        "rss": "https://services.lesechos.fr/rss/les-echos-economie.xml",
+        "language": "french",
+        "country": "france"
+    },
+    {
         "name": "bbcnews",
         "fullName": "BBC News",
-        "id": 36,
+        "id": 39,
         "rss": "http://feeds.bbci.co.uk/news/rss.xml",
         "language": "english",
         "country": "uk"
@@ -290,7 +314,7 @@
     {
         "name": "thetimes",
         "fullName": "The Times",
-        "id": 37,
+        "id": 40,
         "rss": "https://www.thetimes.co.uk/rss",
         "language": "english",
         "country": "uk"
@@ -298,7 +322,7 @@
     {
         "name": "theindependent",
         "fullName": "The Independent",
-        "id": 38,
+        "id": 41,
         "rss": "http://www.independent.co.uk/news/uk/rss",
         "language": "english",
         "country": "uk"
@@ -306,9 +330,33 @@
     {
         "name": "theguardian",
         "fullName": "The Guardian",
-        "id": 39,
+        "id": 42,
         "rss": "https://www.theguardian.com/uk/rss",
         "language": "english",
         "country": "uk"
-    }
+    },
+    {
+        "name": "thetelegraph",
+        "fullName": "The Telegraph",
+        "id": 43,
+        "rss": "https://www.telegraph.co.uk/rss.xml",
+        "language": "english",
+        "country": "uk"
+    },
+    {
+        "name": "skynews",
+        "fullName": "Sky News",
+        "id": 44,
+        "rss": "https://feeds.skynews.com/feeds/rss/uk.xml",
+        "language": "english",
+        "country": "uk"
+    },
+    {
+        "name": "thei",
+        "fullName": "The i",
+        "id": 45,
+        "rss": "https://inews.co.uk/feed",
+        "language": "english",
+        "country": "uk"
+    }    
 ]
