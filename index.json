@@ -64,9 +64,41 @@
         "country": "italy"
     },
     {
+        "name": "agi",
+        "fullName": "AGI",
+        "id": 9,
+        "rss": "https://www.agi.it/cronaca/rss",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
+        "name": "agi",
+        "fullName": "AGI",
+        "id": 10,
+        "rss": "https://www.agi.it/economia/rss",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
+        "name": "agi",
+        "fullName": "AGI",
+        "id": 11,
+        "rss": "https://www.agi.it/estero/rss",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
+        "name": "agi",
+        "fullName": "AGI",
+        "id": 12,
+        "rss": "https://www.agi.it/innovazione/rss",
+        "language": "italian",
+        "country": "italy"
+    },
+    {
         "name": "open",
         "fullName": "Open",
-        "id": 9,
+        "id": 13,
         "rss": "https://www.open.online/feed/",
         "language": "italian",
         "country": "italy"
@@ -74,15 +106,16 @@
     {
         "name": "adnkronos",
         "fullName": "Adnkronos",
-        "id": 10,
+        "id": 14,
         "rss": "https://www.adnkronos.com/RSS_Ultimora.xml",
         "language": "italian",
         "country": "italy"
     },
+
     {
         "name": "nbcnews",
         "fullName": "NBC News",
-        "id": 11,
+        "id": 15,
         "rss": "https://feeds.nbcnews.com/nbcnews/public/news",
         "language": "english",
         "country": "us"
@@ -90,7 +123,7 @@
     {
         "name": "associatedpress",
         "fullName": "Associated Press",
-        "id": 12,
+        "id": 16,
         "rss": "https://apnews.com/index.rss",
         "language": "english",
         "country": "us"
@@ -98,7 +131,7 @@
     {
         "name": "cnn",
         "fullName": "CNN",
-        "id": 13,
+        "id": 17,
         "rss": "http://rss.cnn.com/rss/edition.rss",
         "language": "english",
         "country": "us"
@@ -106,7 +139,7 @@
     {
         "name": "reutersus",
         "fullName": "Reuters US",
-        "id": 14,
+        "id": 18,
         "rss": "https://www.reutersagency.com/feed/?taxonomy=best-sectors&post_type=best",
         "language": "english",
         "country": "us"
@@ -114,7 +147,7 @@
     {
         "name": "washingtonpost",
         "fullName": "Washington Post",
-        "id": 15,
+        "id": 19,
         "rss": "http://feeds.washingtonpost.com/rss/national",
         "language": "english",
         "country": "us"
@@ -122,7 +155,7 @@
     {
         "name": "usatoday",
         "fullName": "USA Today",
-        "id": 16,
+        "id": 20,
         "rss": "http://rssfeeds.usatoday.com/usatoday-NewsTopStories",
         "language": "english",
         "country": "us"
@@ -130,7 +163,7 @@
     {
         "name": "pbs",
         "fullName": "PBS",
-        "id": 17,
+        "id": 21,
         "rss": "https://www.pbs.org/newshour/rss",
         "language": "english",
         "country": "us"
@@ -138,7 +171,7 @@
     {
         "name": "abcnews",
         "fullName": "ABC News",
-        "id": 18,
+        "id": 22,
         "rss": "https://abcnews.go.com/abcnews/topstories",
         "language": "english",
         "country": "us"
@@ -146,7 +179,7 @@
     {
         "name": "npr",
         "fullName": "NPR",
-        "id": 19,
+        "id": 23,
         "rss": "https://feeds.npr.org/1001/rss.xml",
         "language": "english",
         "country": "us"
@@ -154,7 +187,7 @@
     {
         "name": "huffpost",
         "fullName": "Huff Post",
-        "id": 20,
+        "id": 24,
         "rss": "https://chaski.huffpost.com/us/auto/vertical/us-news",
         "language": "english",
         "country": "us"
@@ -162,7 +195,7 @@
     {
         "name": "lemonde",
         "fullName": "Le Monde",
-        "id": 21,
+        "id": 25,
         "rss": "https://www.lemonde.fr/en/rss/une.xml",
         "language": "french",
         "country": "france"
@@ -170,7 +203,7 @@
     {
         "name": "lefigaro",
         "fullName": "Le Figaro",
-        "id": 22,
+        "id": 26,
         "rss": "https://www.lefigaro.fr/rss/figaro_actualite-france.xml",
         "language": "french",
         "country": "france"
@@ -178,7 +211,7 @@
     {
         "name": "liberation",
         "fullName": "Libération",
-        "id": 23,
+        "id": 27,
         "rss": "https://www.liberation.fr/arc/outboundfeeds/rss-all/?outputType=xml",
         "language": "french",
         "country": "france"
@@ -186,7 +219,7 @@
     {
         "name": "leparisien",
         "fullName": "Le Parisien",
-        "id": 24,
+        "id": 28,
         "rss": "http://www.leparisien.fr/actualites-a-la-une/rss.xml",
         "language": "french",
         "country": "france"
@@ -194,7 +227,7 @@
     {
         "name": "rue89",
         "fullName": "Rue89",
-        "id": 25,
+        "id": 29,
         "rss": "https://www.nouvelobs.com/monde/rss.xml",
         "language": "french",
         "country": "france"
@@ -202,7 +235,7 @@
     {
         "name": "challenges",
         "fullName": "Challenges",
-        "id": 26,
+        "id": 30,
         "rss": "https://www.challenges.fr/rss.xml",
         "language": "french",
         "country": "france"
@@ -210,7 +243,7 @@
     {
         "name": "lesechos",
         "fullName": "Les Échos",
-        "id": 27,
+        "id": 31,
         "rss": "https://services.lesechos.fr/rss/les-echos-economie.xml",
         "language": "french",
         "country": "france"
@@ -218,7 +251,7 @@
     {
         "name": "bbcnews",
         "fullName": "BBC News",
-        "id": 28,
+        "id": 32,
         "rss": "https://feeds.bbci.co.uk/news/rss.xml",
         "language": "english",
         "country": "uk"
@@ -226,48 +259,24 @@
     {
         "name": "thetimes",
         "fullName": "The Times",
-        "id": 29,
-        "rss": "https://www.times-series.co.uk/news/rss/",
+        "id": 33,
+        "rss": "https://www.thetimes.co.uk/rss",
         "language": "english",
         "country": "uk"
     },
     {
         "name": "theindependent",
         "fullName": "The Independent",
-        "id": 30,
-        "rss": "https://www.independent.co.uk/news/uk/rss",
+        "id": 34,
+        "rss": "http://www.independent.co.uk/news/uk/rss",
         "language": "english",
         "country": "uk"
     },
     {
         "name": "theguardian",
         "fullName": "The Guardian",
-        "id": 31,
+        "id": 35,
         "rss": "https://www.theguardian.com/uk/rss",
-        "language": "english",
-        "country": "uk"
-    },
-    {
-        "name": "thetelegraph",
-        "fullName": "The Telegraph",
-        "id": 32,
-        "rss": "https://www.telegraph.co.uk/rss.xml",
-        "language": "english",
-        "country": "uk"
-    },
-    {
-        "name": "skynews",
-        "fullName": "Sky News",
-        "id": 33,
-        "rss": "https://feeds.skynews.com/feeds/rss/uk.xml",
-        "language": "english",
-        "country": "uk"
-    },
-    {
-        "name": "thei",
-        "fullName": "The i",
-        "id": 34,
-        "rss": "https://inews.co.uk/feed",
         "language": "english",
         "country": "uk"
     }
