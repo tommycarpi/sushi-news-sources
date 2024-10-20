@@ -173,7 +173,7 @@
         "id": 22,
         "rss": "https://feeds.nbcnews.com/nbcnews/public/news",
         "language": "english",
-        "country": "us"
+        "country": "usa"
     },
     {
         "name": "associatedpress",
@@ -181,7 +181,7 @@
         "id": 23,
         "rss": "https://apnews.com/index.rss",
         "language": "english",
-        "country": "us"
+        "country": "usa"
     },
     {
         "name": "cnn",
@@ -189,15 +189,15 @@
         "id": 24,
         "rss": "http://rss.cnn.com/rss/edition.rss",
         "language": "english",
-        "country": "us"
+        "country": "usa"
     },
     {
-        "name": "reutersus",
-        "fullName": "Reuters US",
+        "name": "reutersusa",
+        "fullName": "Reuters usa",
         "id": 25,
         "rss": "https://www.reutersagency.com/feed/?taxonomy=best-sectors&post_type=best",
         "language": "english",
-        "country": "us"
+        "country": "usa"
     },
     {
         "name": "washingtonpost",
@@ -205,7 +205,7 @@
         "id": 26,
         "rss": "http://feeds.washingtonpost.com/rss/national",
         "language": "english",
-        "country": "us"
+        "country": "usa"
     },
     {
         "name": "usatoday",
@@ -213,7 +213,7 @@
         "id": 27,
         "rss": "http://rssfeeds.usatoday.com/usatoday-NewsTopStories",
         "language": "english",
-        "country": "us"
+        "country": "usa"
     },
     {
         "name": "pbs",
@@ -221,7 +221,7 @@
         "id": 28,
         "rss": "https://www.pbs.org/newshour/rss",
         "language": "english",
-        "country": "us"
+        "country": "usa"
     },
     {
         "name": "abcnews",
@@ -229,7 +229,7 @@
         "id": 29,
         "rss": "https://abcnews.go.com/abcnews/topstories",
         "language": "english",
-        "country": "us"
+        "country": "usa"
     },
     {
         "name": "npr",
@@ -237,7 +237,7 @@
         "id": 30,
         "rss": "https://feeds.npr.org/1001/rss.xml",
         "language": "english",
-        "country": "us"
+        "country": "usa"
     },
     {
         "name": "huffpost",
@@ -245,7 +245,7 @@
         "id": 31,
         "rss": "https://chaski.huffingtonpost.com/us/news",
         "language": "english",
-        "country": "us"
+        "country": "usa"
     },
     {
         "name": "lemonde",
